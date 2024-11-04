@@ -1,5 +1,6 @@
 # Projet_POWER_BI_sur_les_ventes
-![image1 ici](https://github.com/Lirette/Projet_POWER_BI_sur_les_ventes/blob/main/Details_importants_Ventes.png "mon image")
+![image1 ici](https://github.com/Lirette/Projet_POWER_BI_sur_les_ventes/main/Details_importants_Ventes.png "mon image")
+![image ici](https://github.com/Lirette/Projet_POWER_BI_sur_les_ventes/blob/main/Analyse_Commerciale.png "mon image")
 
 Le projet porte principalement sur l'analyse des ventes d'une entreprise. Il inclut toutes les étapes, allant de l'importation des données, à leur analyse, jusqu'à la présentation des résultats sous forme de tableaux de bord interactifs. Plus précisément, il s'agissait de :
 - Importation des données
